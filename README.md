@@ -1,11 +1,19 @@
 # Aulas-gen-ai
 Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
 
+# Questionários
+
+- Aula 2: https://docs.google.com/forms/d/e/1FAIpQLSfDkHmoLD_TCuoqgEHFc0xBQx7SJYNaxGHWVLyk8PWKPeiYwQ/viewform?usp=sharing&ouid=103548109541674044117
+
+
 # Referências:
 
+
 ## Livros:
-- Generative Deep Learning, 2ª edição.
-  - Repositório dos projetos do Livro: https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition
+- David Foster. **Generative Deep Learning**, 2ª edição.
+  - Repositório do livro: https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition
+- Sebastian Raschka. **Build a Large Language Model (From Scratch)**. Simon and Schuster, 2024.
+  - Repostório do livro: https://github.com/rasbt/LLMs-from-scratch
 
 
 ## Aula 1: Introdução
@@ -29,4 +37,6 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
   - Relatório Anual da Stanford University com dados estatísticos sobre GenAis: https://hai.stanford.edu/ai-index/2025-ai-index-report
  
 ## Aula 2: Modelos de Geração de texto.
-  - Em desenvolvimento.
+  - Fonte do diagrama de linha temporal de NLP: https://blog.dataiku.com/nlp-metamorphosis
+  - Artigo sobre Fine-tuning: https://arxiv.org/abs/1909.08593
+  - Vídeo Maximally Bad Output: https://youtu.be/qV_rOlHjvvs
