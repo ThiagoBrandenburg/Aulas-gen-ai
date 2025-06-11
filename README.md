@@ -5,7 +5,7 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
 
 - Aula 2: https://docs.google.com/forms/d/e/1FAIpQLSfDkHmoLD_TCuoqgEHFc0xBQx7SJYNaxGHWVLyk8PWKPeiYwQ/viewform?usp=sharing&ouid=103548109541674044117
 
-- Aula 3: 
+- Aula 3: https://docs.google.com/forms/d/e/1FAIpQLSf7qw7mfZ-LnpMHCLpAC2mAi0SweFM2sEtxprYHDoJH1sJIHA/viewform?usp=sharing&ouid=103548109541674044117
   - Código analisado: https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/generative/ipynb/text_generation_with_miniature_gpt.ipynb#scrollTo=p753KtSrpx2g
 
 
