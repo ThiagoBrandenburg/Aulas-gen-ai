@@ -5,8 +5,6 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
 
 - Aula 2: https://docs.google.com/forms/d/e/1FAIpQLSfDkHmoLD_TCuoqgEHFc0xBQx7SJYNaxGHWVLyk8PWKPeiYwQ/viewform?usp=sharing&ouid=103548109541674044117
 
-- Aula 3: https://docs.google.com/forms/d/e/1FAIpQLSf7qw7mfZ-LnpMHCLpAC2mAi0SweFM2sEtxprYHDoJH1sJIHA/viewform?usp=sharing&ouid=103548109541674044117
-  - Código analisado: https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/generative/ipynb/text_generation_with_miniature_gpt.ipynb#scrollTo=p753KtSrpx2g
 
 
 # Referências:
@@ -56,4 +54,14 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
     - Arquitetura Decoder-Only (GPT, 2018): https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
     - Playlist do 3Blue1Brown sobre ANNs: https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=FFqOytYW0VzStQCz
       - As aulas 5, 6 e 7 falam sobre LLMs, são extremamente explicativas.
-  
+  - Mixture of Experts (MoE):
+    - Vídeo curto da IBM: https://youtu.be/sYDlVVyJYn4
+    - Artigo sobre MoE em Transformers(Moe): https://arxiv.org/pdf/2006.16668
+
+
+# Aula 4: Modelos Fundacionais e Fine-tuning
+  - Mixture of Experts:
+    
+    - WebArticle DataCamp MoE: https://www.datacamp.com/blog/mixture-of-experts-moe
+    - Artigo Deepseek-R1: https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
+    - Artigo Deepseek-V3: https://arxiv.org/pdf/2412.19437
