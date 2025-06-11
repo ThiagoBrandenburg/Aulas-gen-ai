@@ -5,6 +5,9 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
 
 - Aula 2: https://docs.google.com/forms/d/e/1FAIpQLSfDkHmoLD_TCuoqgEHFc0xBQx7SJYNaxGHWVLyk8PWKPeiYwQ/viewform?usp=sharing&ouid=103548109541674044117
 
+- Aula 3: 
+  - Código analisado: https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/generative/ipynb/text_generation_with_miniature_gpt.ipynb#scrollTo=p753KtSrpx2g
+
 
 # Referências:
 
@@ -13,7 +16,7 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
 - David Foster. **Generative Deep Learning**, 2ª edição.
   - Repositório do livro: https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition
 - Sebastian Raschka. **Build a Large Language Model (From Scratch)**. Simon and Schuster, 2024.
-  - Repostório do livro: https://github.com/rasbt/LLMs-from-scratch
+  - Repositório do livro: https://github.com/rasbt/LLMs-from-scratch
 
 
 ## Aula 1: Introdução
@@ -40,3 +43,17 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
   - Fonte do diagrama de linha temporal de NLP: https://blog.dataiku.com/nlp-metamorphosis
   - Artigo sobre Fine-tuning: https://arxiv.org/abs/1909.08593
   - Vídeo Maximally Bad Output: https://youtu.be/qV_rOlHjvvs
+
+
+# Aula 3: Transformers.
+  - Embeddings de tokens:
+    - Um artigo sobre interpretabilidade do espaço latente em modelos de imagem: https://arxiv.org/abs/2303.11073
+  - Embeddings de posição:
+    - Artigo do Hugging Face sobre Positional embedding: https://huggingface.co/blog/designing-positional-encoding
+    - Artigo do Machine Learning Mastery: https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
+  - Transformer:
+    - Arquitetura Transformer (Attention is all you need, 2017): https://arxiv.org/abs/1706.03762
+    - Arquitetura Decoder-Only (GPT, 2018): https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+    - Playlist do 3Blue1Brown sobre ANNs: https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=FFqOytYW0VzStQCz
+      - As aulas 5, 6 e 7 falam sobre LLMs, são extremamente explicativas.
+  
