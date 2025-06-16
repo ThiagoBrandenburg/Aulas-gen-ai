@@ -4,7 +4,9 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
 # Questionários
 
 - Aula 2: https://docs.google.com/forms/d/e/1FAIpQLSfDkHmoLD_TCuoqgEHFc0xBQx7SJYNaxGHWVLyk8PWKPeiYwQ/viewform?usp=sharing&ouid=103548109541674044117
-
+- Aula 3: https://docs.google.com/forms/d/e/1FAIpQLSf7qw7mfZ-LnpMHCLpAC2mAi0SweFM2sEtxprYHDoJH1sJIHA/viewform?usp=sharing&ouid=103548109541674044117
+  - Código Mini-GPT com Keras: https://keras.io/examples/generative/text_generation_with_miniature_gpt/
+  - Código do DeepSeek-V3: https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py
 
 
 # Referências:
@@ -46,14 +48,18 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
 # Aula 3: Transformers.
   - Embeddings de tokens:
     - Um artigo sobre interpretabilidade do espaço latente em modelos de imagem: https://arxiv.org/abs/2303.11073
+
   - Embeddings de posição:
     - Artigo do Hugging Face sobre Positional embedding: https://huggingface.co/blog/designing-positional-encoding
     - Artigo do Machine Learning Mastery: https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
+
   - Transformer:
     - Arquitetura Transformer (Attention is all you need, 2017): https://arxiv.org/abs/1706.03762
     - Arquitetura Decoder-Only (GPT, 2018): https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
     - Playlist do 3Blue1Brown sobre ANNs: https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=FFqOytYW0VzStQCz
       - As aulas 5, 6 e 7 falam sobre LLMs, são extremamente explicativas.
+    - Representação visual de uma LLM: https://bbycroft.net/llm
+    
   - Mixture of Experts (MoE):
     - Vídeo curto da IBM: https://youtu.be/sYDlVVyJYn4
     - Artigo sobre MoE em Transformers(Moe): https://arxiv.org/pdf/2006.16668
