@@ -7,7 +7,8 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
 - Aula 3: https://docs.google.com/forms/d/e/1FAIpQLSf7qw7mfZ-LnpMHCLpAC2mAi0SweFM2sEtxprYHDoJH1sJIHA/viewform?usp=sharing&ouid=103548109541674044117
   - Código Mini-GPT com Keras: https://keras.io/examples/generative/text_generation_with_miniature_gpt/
   - Código do DeepSeek-V3: https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py
-
+- Aula 4: 
+  - Código em Collab: https://colab.research.google.com/drive/1sN1zHKNJa0R5pAV4H-QbvO6xIfee5VoO?usp=sharing
 
 # Referências:
 
@@ -63,11 +64,19 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
   - Mixture of Experts (MoE):
     - Vídeo curto da IBM: https://youtu.be/sYDlVVyJYn4
     - Artigo sobre MoE em Transformers(Moe): https://arxiv.org/pdf/2006.16668
-
-
-# Aula 4: Modelos Fundacionais e Fine-tuning
-  - Mixture of Experts:
-    
     - WebArticle DataCamp MoE: https://www.datacamp.com/blog/mixture-of-experts-moe
     - Artigo Deepseek-R1: https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
     - Artigo Deepseek-V3: https://arxiv.org/pdf/2412.19437
+
+# Aula 4: Modelos Fundacionais e Fine-tuning
+  - Comparação de LLMs: https://llm-stats.com
+  - Prompting: https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/
+  - Fine tuning:
+    - Fonte Diagrama fine-tuning: https://python.plainenglish.io/fine-tune-llms-a-comprehensive-guide-between-full-partial-fine-tuning-an-end-to-end-python-3fa7223f5519
+    - Fine tuning your first LLM: https://huggingface.co/blog/dvgodoy/fine-tuning-llm-hugging-face
+  - Quantization:
+    - https://huggingface.co/docs/optimum/concept_guides/quantization
+  - LoRA:
+    - Artigo original: https://arxiv.org/abs/2106.09685
+  - Fine-tuning:
+    - 
