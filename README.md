@@ -7,7 +7,7 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
 - Aula 3: https://docs.google.com/forms/d/e/1FAIpQLSf7qw7mfZ-LnpMHCLpAC2mAi0SweFM2sEtxprYHDoJH1sJIHA/viewform?usp=sharing&ouid=103548109541674044117
   - Código Mini-GPT com Keras: https://keras.io/examples/generative/text_generation_with_miniature_gpt/
   - Código do DeepSeek-V3: https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py
-- Aula 4: 
+- Aula 4: https://docs.google.com/forms/d/e/1FAIpQLSe5pgkVCqeLqz7Is8iaw3K9SZrxRzItpPMcIQpWAWCri2tUMQ/viewform?usp=sharing&ouid=103548109541674044117
   - Código em Collab: https://colab.research.google.com/drive/1sN1zHKNJa0R5pAV4H-QbvO6xIfee5VoO?usp=sharing
 
 # Referências:
