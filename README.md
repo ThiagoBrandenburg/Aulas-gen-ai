@@ -15,6 +15,9 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
   - https://docs.google.com/forms/d/e/1FAIpQLSe5pgkVCqeLqz7Is8iaw3K9SZrxRzItpPMcIQpWAWCri2tUMQ/viewform?usp=sharing&ouid=103548109541674044117
   - Código em Collab: https://colab.research.google.com/drive/1sN1zHKNJa0R5pAV4H-QbvO6xIfee5VoO?usp=sharing
 
+- Aula 5: Modelos de Imagem:
+  - Repositório com exemplos em português: https://github.com/acucenarodrigues1998/TutorialPyBR2023-GenAINotebooks/tree/main
+  - Link para o dataset: https://huggingface.co/datasets/ashis-palai/sprites_image_dataset/blob/main/sprites_1788_16x16.npy
 # Referências:
 
 
@@ -51,7 +54,7 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
   - Vídeo Maximally Bad Output: https://youtu.be/qV_rOlHjvvs
 
 
-# Aula 3: Transformers.
+## Aula 3: Transformers.
   - Embeddings de tokens:
     - Um artigo sobre interpretabilidade do espaço latente em modelos de imagem: https://arxiv.org/abs/2303.11073
 
@@ -73,7 +76,7 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
     - Artigo Deepseek-R1: https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
     - Artigo Deepseek-V3: https://arxiv.org/pdf/2412.19437
 
-# Aula 4: Modelos Fundacionais e Fine-tuning
+## Aula 4: Modelos Fundacionais e Fine-tuning
   - Comparação de LLMs: https://llm-stats.com
   - Prompting: https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/
   - Fine tuning:
@@ -83,5 +86,23 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
     - https://huggingface.co/docs/optimum/concept_guides/quantization
   - LoRA:
     - Artigo original: https://arxiv.org/abs/2106.09685
-  - Fine-tuning:
-    - 
+  - Modelos:
+    - Microsoft Phi-3 mini 4k Instruct: https://huggingface.co/microsoft/Phi-3-mini-4k-instruct
+
+## Aula 5: Modelos de Imagem.
+  - Image-to-Image:
+    - Pix2Pix: https://huggingface.co/tasks/image-to-text
+    - Pix2Pix Github: https://github.com/phillipi/pix2pix?tab=readme-ov-file
+    - Exemplo GAN Pix2Pix: https://www.researchgate.net/publication/332932603_Transferring_Multiscale_Map_Styles_Using_Generative_Adversarial_Networks
+    - Artigo Original GAN Pix2Pix: https://arxiv.org/pdf/1611.07004
+    - Código geração de imagens com pix2pix: https://github.com/acucenarodrigues1998/TutorialPyBR2023-GenAINotebooks/blob/main/Tutorial_PyBR_02_Gera%C3%A7%C3%A3o_de_imagens_com_Pix2Pix.ipynb
+  - Image-to-Text:
+    - https://huggingface.co/tasks/image-to-text
+    - https://huggingface.co/docs/transformers/model_doc/blip
+  - Text-to-Image:
+    - Artigo Original CLIP: https://arxiv.org/pdf/2204.06125
+    - Video Computerphile sobre CLIP: https://youtu.be/KcSXcpluDe4
+    - Artigo OpenAI Blip: https://openai.com/index/clip/
+    - Artigo Stable Diffusion: https://arxiv.org/abs/2112.10752
+
+
