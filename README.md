@@ -16,8 +16,9 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
   - Código em Collab: https://colab.research.google.com/drive/1sN1zHKNJa0R5pAV4H-QbvO6xIfee5VoO?usp=sharing
 
 - Aula 5: Modelos de Imagem:
-  - Repositório com exemplos em português: https://github.com/acucenarodrigues1998/TutorialPyBR2023-GenAINotebooks/tree/main
-  - Link para o dataset: https://huggingface.co/datasets/ashis-palai/sprites_image_dataset/blob/main/sprites_1788_16x16.npy
+  - https://docs.google.com/forms/d/e/1FAIpQLSddamzw16lc_qyMYk229AlhI408Zf0rPFAvgIERhCXjPqVPpw/viewform?usp=sharing&ouid=103548109541674044117
+  - Vídeo Computerphile: https://youtu.be/1CIpzeNxIhU
+
 # Referências:
 
 
@@ -104,5 +105,6 @@ Conteúdo para aulas de IA Generativa para turma de IA 2025-01 do BCC-UDESC.
     - Video Computerphile sobre CLIP: https://youtu.be/KcSXcpluDe4
     - Artigo OpenAI Blip: https://openai.com/index/clip/
     - Artigo Stable Diffusion: https://arxiv.org/abs/2112.10752
-
-
+  -Códigos:
+  - Repositório com exemplos em português: https://github.com/acucenarodrigues1998/TutorialPyBR2023-GenAINotebooks/tree/main
+  - Link para o dataset: https://huggingface.co/datasets/ashis-palai/sprites_image_dataset/blob/main/sprites_1788_16x16.npy
